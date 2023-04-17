@@ -1,2 +1,2 @@
-# exit-chaos
-Simple Pod Exit Chaos for Kubernetes
+# Pod Chaos
+Simple Pod Chaos for Kubernetes
